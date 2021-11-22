@@ -1,3 +1,3 @@
 # prueba
 
-Este repo es solo una prueba. Otro cambio
+Esto es una version mejorada.
